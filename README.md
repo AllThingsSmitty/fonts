@@ -13,4 +13,4 @@
 
 ## License
 
-**Important disclaimer:** These fonts are their authors' property, and are either freeware, shareware, demo versions, or public domain. This project's author in no way responsibile for the copyright or terms of use for these fonts. All questions should be directed to the fonts authors.
+**Important disclaimer:** These fonts are their authors' property and are either freeware, shareware, demo versions, or public domain. The author of this repository is _in no way responsibile_ for the copyright or terms of use for these fonts. All questions should be directed to the fonts authors.
