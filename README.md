@@ -8,12 +8,13 @@ Web fonts that you probably won't find in a CDN.
 
 ### Sans-Serif
 
-* [Frutiger LT Std](https://github.com/AllThingsSmitty/fonts/tree/master/Frutiger%20LT%20Std)
-* [Helvetica Neue](https://github.com/AllThingsSmitty/fonts/tree/master/Helvetica%20Neue)
-* [Jurassic Park](https://github.com/AllThingsSmitty/fonts/tree/master/Jurassic%20Park)
-* [Neutra Text Bold](https://github.com/AllThingsSmitty/fonts/tree/master/Neutra%20Text%20Bold)
+* [Frutiger Lt Std](https://github.com/AllThingsSmitty/fonts/tree/master/FrutigerLtStd)
+* [Helvetica Neue](https://github.com/AllThingsSmitty/fonts/tree/master/HelveticaNeue)
+* [Jurassic Park](https://github.com/AllThingsSmitty/fonts/tree/master/JurassicPark)
+* [Neutra Text Bold](https://github.com/AllThingsSmitty/fonts/tree/master/NeutraTextBold)
 * [Roboto](https://github.com/AllThingsSmitty/fonts/tree/master/Roboto)
-* [San Francisco](https://github.com/AllThingsSmitty/fonts/tree/master/San%20Francisco)
+* [San Francisco](https://github.com/AllThingsSmitty/fonts/tree/master/SanFrancisco)
+* [Trade Gothic LT Condensed 18](https://github.com/AllThingsSmitty/fonts/tree/master/TradeGothicLtCondensed18)
 * [Univers](https://github.com/AllThingsSmitty/fonts/tree/master/Univers)
 
 
