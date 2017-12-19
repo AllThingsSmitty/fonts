@@ -12,7 +12,7 @@ Web fonts that you probably won't find in a CDN.
 * [Helvetica Neue](https://github.com/AllThingsSmitty/fonts/tree/master/HelveticaNeue)
 * [Jurassic Park](https://github.com/AllThingsSmitty/fonts/tree/master/JurassicPark)
 * [Neutra Text Bold](https://github.com/AllThingsSmitty/fonts/tree/master/NeutraTextBold)
-* [Roboto](https://github.com/AllThingsSmitty/fonts/tree/master/Roboto)
+* [Roboto](https://github.com/AllThingsSmitty/fonts/tree/master/Roboto) ([source](), [Google Font's subset](https://fonts.google.com/specimen/Roboto))
 * [San Francisco](https://github.com/AllThingsSmitty/fonts/tree/master/SanFrancisco)
 * [Trade Gothic LT Condensed 18](https://github.com/AllThingsSmitty/fonts/tree/master/TradeGothicLtCondensed18)
 * [Univers](https://github.com/AllThingsSmitty/fonts/tree/master/Univers)
